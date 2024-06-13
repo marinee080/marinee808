@@ -1,0 +1,22 @@
+body{
+    border: 2px solid black;
+    border-radius: 35px;
+    background-color: #FF6666;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+h1{
+    color: aliceblue;
+    text-align:center ;
+}
+form{
+    text-align: center;
+    color: #e7ceb5;
+    font-family: "Itim", cursive;
+}
+
